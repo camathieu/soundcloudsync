@@ -1,0 +1,10 @@
+Automatic soundcloud downloader
+
+You'll need an open redis server at localhost
+or you can override storage methods in Sysaccess.py
+
+Just provide your credentials, paths to storage in Settings.py
+and your tracks, favorites tracks will be downloaded and tagged.
+You can also provide guests user ids to download their public and favorites tracks.
+
+Enjoy music.
